@@ -1,4 +1,4 @@
-# 巴西电商数据分析（Brazilian E-Commerce Analysis）
+# 电商数据分析
 
 基于 Kaggle 公开的巴西电商 Olist 数据集（约 10 万订单），使用 **PySpark** 完成多维度经营分析：从数据清洗、指标计算到 RFM 客户分层，最后用 matplotlib 输出可视化图表。
 
@@ -52,7 +52,3 @@ python visualize.py   # 生成图表
 ## 工具
 
 PySpark（Spark SQL / DataFrame API）· Pandas · Matplotlib
-
-## License
-
-MIT
