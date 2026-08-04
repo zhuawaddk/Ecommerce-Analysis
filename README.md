@@ -2,7 +2,7 @@
 
 基于 Kaggle 公开的巴西电商 Olist 数据集（约 10 万订单），使用 **PySpark** 完成多维度经营分析：从数据清洗、指标计算到 RFM 客户分层，最后用 matplotlib 输出可视化图表。
 
-数据集：[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)（下载后放入 `data/` 目录，数据不入库）
+数据集：[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)（下载后放入 `data/` 目录）
 
 ## 分析内容
 
