@@ -1,0 +1,5 @@
+﻿customer_segment,customer_count,avg_purchase_amount,avg_order_count
+一般客户,40364,130.62,1.01
+低价值客户,18007,57.24,1.0
+重要客户,35721,254.45,1.06
+高价值客户,603,435.75,2.37
